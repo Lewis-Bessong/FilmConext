@@ -30,10 +30,13 @@ As of right now FilmConext <br>
 
 ### CSS
 ### JavaScript 
+### Github
+- 
 ### Others 
 
 
-## AI Usage
+
+## AI Usage (Add Picture) 
 
 Claude was used during the creation of the project. <br>
 It was used to assists in <br>
