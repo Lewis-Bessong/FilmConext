@@ -4,7 +4,7 @@ FilmConext is a website that users can use to find out more info about shows. Fu
 
 ### Current Uses/features 
 As of right now FilmConext <br>
-- has button that sends them to theinfo about their chosen show 
+- has button that sends them to the info about their chosen show 
 
 ## Technologies used
 
@@ -22,18 +22,21 @@ As of right now FilmConext <br>
 2. User choses what show they want to know more about
 3. User is sent to link and gets info 
 
+Project Link:  https://lewis-bessong.github.io/FilmConext/
+
 ## Sources Used
 
 ### HTML
 - https://developer.mozilla.org/en-US/docs/Web/HTML
 - https://www.w3schools.com/html/default.asp
+- 
 
 ### CSS
-### JavaScript 
-### Github
-- 
+### JavaScript
+
 ### Others 
 
+Github Pages - https://docs.github.com/en/pages/quickstart
 
 
 ## AI Usage (Add Picture) 
