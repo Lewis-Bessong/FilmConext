@@ -13,6 +13,12 @@ I would like the whole project to look clean, functionaly asthetic, and reliable
 - Finish GL, but dont make any more anime boxs/links
 - Improving anime box designs
 
+### To Do List
+
+- Add info in Gurren Lagann
+- 
+-
+
 ## 3. Notes/Thoughts
 
 ### Ideas
