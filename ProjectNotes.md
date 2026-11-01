@@ -10,6 +10,10 @@ I would like the whole project to look clean, functionaly asthetic, and reliable
 
 ### Main Menu/Index file (Main Focus)
 - Start Using Java/CS
-- Finish GL and OPM, but dont make any more anime boxs/links
+- Finish GL, but dont make any more anime boxs/links
 - Improving anime box designs
 
+## 3. Notes/Thoughts
+
+### Ideas
+1. Put Filmconext logo/text in each html file so it can be used as a home button option
