@@ -23,3 +23,4 @@ I would like the whole project to look clean, functionaly asthetic, and reliable
 
 ### Ideas
 1. Put Filmconext logo/text in each html file so it can be used as a home button option
+2. improve head section for shows
