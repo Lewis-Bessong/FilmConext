@@ -1,21 +1,19 @@
 # Project Notes 
 
-## 1. Vision
+## 1. Goals
 
-I would like the whole project to look clean, functionaly asthetic, and reliable.
+I would like the whole project to look clean, functionaly asthetic, and reliable. 
 
-- this is where I would put links to refrence my vision. 
-
-### Home page/Index file (Main Focus)
-- Has Java/Cs used
-- Shows that are there now are functional and clean
-- Good home page design
+### Home page/Index file Goals
+- Boxes and text are 50/50 (not crazy good but alright)
+- 
+- 
 
 ## 2. To Do List
 
 - Find out way to position home button to the right 
-- Start CSS  
-- Improve box design 
+- Play around with css (Add new things that would be useful)  
+- Improve box design (Find ways to position better or overall look) 
 
 ## 3. Notes/Thoughts
 
