@@ -12,8 +12,10 @@ I would like the whole project to look clean, functionaly asthetic, and reliable
 ## 2. To Do List
 
 - Find out way to position home button to the right 
-- Play around with css (Add new things that would be useful)  
+- Play around with css   
 - Improve box design (Find ways to position better or overall look) 
+- link html files to their css files
+- make sure project code is readable/flexable
 
 ## 3. Notes/Thoughts
 
